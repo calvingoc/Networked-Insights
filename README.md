@@ -1,3 +1,7 @@
+This project holds Calvin Gehred-O'Connell's test scripts for the Networked Insights home page that was built off of the Selenium Maven Template described below.
+
+
+
 Selenium-Maven-Template
 =======================
 
